@@ -1,0 +1,7 @@
+print("MY BIRTHDAY LIST!!")
+print("Aniv's Birthday: 20th July")
+print("Dante's Birthday: 6th October")
+print("Alex's Birthday: 16th April")
+print("Felix's Birthday: 25th April")
+print("My mom's Birthday: 1rst September")
+print("This is all")
